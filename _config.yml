@@ -90,7 +90,7 @@ footer:
 defaults:
   # _about
   - scope:
-      path: "_about"
+      path: "_pages/about.md"
       type: about
     values:
       layout: single
