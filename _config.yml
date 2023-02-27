@@ -90,7 +90,7 @@ footer:
 defaults:
   # _about
   - scope:
-      path: ""
+      path: "_about"
       type: about
     values:
       layout: single
