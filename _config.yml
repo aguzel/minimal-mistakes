@@ -93,7 +93,6 @@ collections:
     permalink: /:collection/:path/
 
 defaults:
-defaults:
   # _portfolio
   - scope:
       path: ""
