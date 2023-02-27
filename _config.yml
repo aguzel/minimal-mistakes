@@ -88,10 +88,10 @@ footer:
       url: "https://linkedin.com/"
 
 defaults:
-  # _posts
+  # _about
   - scope:
       path: ""
-      type: posts
+      type: about
     values:
       layout: single
       author_profile: true
